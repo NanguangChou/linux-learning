@@ -3,6 +3,11 @@ Also SSH to hpc.szu.edu.cn/zhounanguang files exists.
 The quence is hello.c malloc4k.c filemap.c filemap-share.c.
 
 learning_step:
+2 进程内存影像
+3 虚存空间的物理支撑
+4 进程的组织与活动
+5 进程并发活动
+
 5内存节点与内存域
 
 
